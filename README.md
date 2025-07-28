@@ -8,8 +8,8 @@ Let the library be called `pylib25`. Do not ask me why `25` - it is because `5*5
 
 ```
 - pylib25/
-    - .github
-        - workflows
+    - .github/
+        - workflows/
             - publish.yml
     - docs/
     - pylib25/
