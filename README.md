@@ -156,7 +156,7 @@ On Pypi in your "Account settings" find the section "API tokens" and create a ne
 
 Now we are ready to create a workflow adding the file `.github/workflows/publish.yml` with the following content:
 
-```
+```yml
 name: Publish Python distributions to PyPI
 
 on:
