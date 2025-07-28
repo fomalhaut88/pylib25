@@ -8,7 +8,7 @@ def get_long_description():
 
 setup(
     name='pylib25',
-    version="0.1.0",
+    version="0.1.1",
     author='Alexander Khlebushchev',
     description="A simple library to illustrate how to deploy a Python library..",
     url="https://github.com/fomalhaut88/pylib25",
