@@ -7,7 +7,7 @@ def sqr(x: float) -> float:
     Get square of the given `x`.
 
     ```
-    from mylib25 import sqr
+    from pylib25 import sqr
 
     assert sqr(5.0) == 25.0
     ```
